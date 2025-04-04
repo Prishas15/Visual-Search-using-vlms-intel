@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+openai-clip
+torchvision
+p
+faiss-cpu
+pillow
